@@ -1,5 +1,5 @@
 {
-  "name": "nfc-pcsc",
+  "name": "alexroan-nfc-pcsc",
   "version": "0.8.0",
   "description": "Easy reading and writing NFC tags and cards",
   "keywords": [
@@ -14,23 +14,27 @@
     "tag",
     "ultralight"
   ],
-  "homepage": "https://github.com/pokusew/nfc-pcsc#readme",
+  "homepage": "https://github.com/alexroan/nfc-pcsc#readme",
   "bugs": {
-    "url": "https://github.com/pokusew/nfc-pcsc/issues"
+    "url": "https://github.com/alexroan/nfc-pcsc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pokusew/nfc-pcsc.git"
+    "url": "https://github.com/alexroan/nfc-pcsc.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Martin Endler",
-    "url": "https://github.com/pokusew"
+    "name": "Alex Roan",
+    "url": "https://github.com/alexroan"
   },
   "contributors": [
     {
       "name": "foxxyz",
       "url": "https://github.com/foxxyz"
+    },
+    {
+      "name": "Martin Endler",
+      "url": "https://github.com/pokusew"
     }
   ],
   "main": "dist/index.js",
